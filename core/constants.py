@@ -1,0 +1,9 @@
+# Cache TTLs in seconds
+PRODUCT_DETAIL_CACHE_TTL = 600       # 10 minutes
+PRODUCT_LIST_CACHE_TTL = 600         # 10 minutes
+CATEGORY_TREE_CACHE_TTL = 1800       # 30 minutes
+WAREHOUSE_DETAIL_CACHE_TTL = 900     # 15 minutes
+WAREHOUSE_LIST_CACHE_TTL = 900       # 15 minutes
+INVENTORY_LOW_STOCK_CACHE_TTL = 300  # 5 minutes
+SUPPLIER_DETAIL_CACHE_TTL = 1200     # 20 minutes
+REPORT_DASHBOARD_CACHE_TTL = 600     # 10 minutes
